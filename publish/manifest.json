@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f4a963318bc5d8e48d973378e4dbc350.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.8edc3fe1eaf5f4fc5cb4196ffe3f9cbc.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.ad50b9a869df4c16c233cd255f5b5de8.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "jmcelleletronicos",
+  "short_name": "jmcelleletronicos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "jmcelleletronicos",
+  "background_color": "#ffffff",
+  "theme_color": "#f10505"
+}
