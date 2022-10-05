@@ -25,7 +25,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/images.jpg"
+          "img": "/img/uploads/banner2.webp",
+          "mobile_img": "/img/uploads/headphone.webp"
         }
       ]
     },
