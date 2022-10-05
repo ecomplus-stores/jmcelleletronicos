@@ -1,7 +1,7 @@
 {
   "domain": "jmcelleletronicos.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#121111",
+  "primary_color": "#f10505",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#171717",
+  "secondary_color": "#ed0505",
   "icon": "/img/uploads/jpeg-2.jpg",
   "store_id": 44374,
   "description": "jmcelleletronicos",
